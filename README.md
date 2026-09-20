@@ -86,3 +86,15 @@ Document
 📧 **Email:** [vedhan88@gmail.com](mailto:vedhan88@gmail.com)
 
 💻 **GitHub:** [vedhan88-dot](https://github.com/vedhan88-dot)
+
+---
+
+## 💡 My Cybersecurity Mindset
+
+> **Learn the fundamentals. Investigate the evidence. Document what you find.**
+
+I'm continuously learning, building practical labs, and improving my cybersecurity skills through hands-on investigation.
+
+---
+
+⭐ Thanks for visiting my profile!
