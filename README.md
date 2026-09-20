@@ -38,12 +38,11 @@ Building practical cybersecurity skills with a focus on **SOC operations, securi
 | **Documentation** | GitHub, Markdown |
 
 ---
-
 ## 🔬 Featured Project
 
 ### 🛡️ Enterprise SOC Home Lab
 
-A hands-on SOC environment built with **Wazuh, Ubuntu Linux and VirtualBox** to practice real-world SOC Analyst L1 investigation workflows.
+A hands-on SOC environment built with **Wazuh, Ubuntu Linux and VirtualBox** to practice security monitoring, alert triage, threat detection, threat hunting, incident investigation, MITRE ATT&CK mapping, and incident documentation.
 
 ### 🔎 Investigations Completed
 
@@ -59,6 +58,8 @@ A hands-on SOC environment built with **Wazuh, Ubuntu Linux and VirtualBox** to 
 - Active Response
 - Multi-Event Incident Investigation
 - Final SOC L1 Capstone
+
+🔗 **[View Enterprise SOC Home Lab](https://github.com/vedhan88-dot/Enterprise-soc-wazuh)**
 
 ### 🎯 SOC Workflow Practiced
 
