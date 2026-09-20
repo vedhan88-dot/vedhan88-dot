@@ -21,21 +21,18 @@ Building practical cybersecurity skills with a focus on **SOC operations, securi
 
 ## 🧰 Technical Skills
 
-| **Area** | **Technologies / Skills** |
+| Area | Skills / Tools |
 |---|---|
-| **SIEM** | Wazuh |
-| **Security Monitoring** | Alert Monitoring, Alert Triage, Event Investigation |
-| **Threat Detection** | SSH Authentication Detection, File Integrity Monitoring |
-| **Threat Hunting** | Wazuh Threat Hunting, Event Searching, Event Correlation |
-| **Incident Investigation** | Timeline Analysis, Multi-Event Correlation, Evidence Documentation |
-| **Vulnerability Management** | Wazuh Vulnerability Detection |
-| **Security Assessment** | Wazuh Security Configuration Assessment |
-| **Threat Framework** | MITRE ATT&CK |
-| **Active Response** | Wazuh Active Response |
-| **Operating Systems** | Ubuntu Linux, Windows |
-| **Networking** | Networking Fundamentals |
-| **Virtualization** | VirtualBox |
-| **Documentation** | GitHub, Markdown |
+| 🛡️ SIEM | Wazuh |
+| 🔎 Security Monitoring | Alert Monitoring, Alert Triage, Event Investigation |
+| 🐧 Operating Systems | Ubuntu Linux, Windows |
+| 🔐 Security Investigation | Linux Authentication, SSH Investigation, Log Analysis |
+| 🎯 Threat Hunting | Event Searching, Event Correlation |
+| 🗺️ Framework | MITRE ATT&CK |
+| 🛠️ Security Assessment | Vulnerability Detection, Security Configuration Assessment |
+| 🚨 Response | Wazuh Active Response |
+| 💻 Virtualization | VirtualBox |
+| 📚 Documentation | GitHub, Markdown |
 
 ---
 ## 🔬 Featured Project
