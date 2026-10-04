@@ -21,21 +21,19 @@ Building practical cybersecurity skills with a focus on **SOC operations, securi
 
 ## 🧰 Technical Skills
 
-| **Area** | **Skills / Tools** |
-|---|---|
-| 🛡️ SIEM | Wazuh |
-| 🔎 Security Monitoring | Alert Monitoring, Alert Triage, Event Investigation |
-| 🐧 Operating Systems | Ubuntu Linux, Windows |
-| 🔐 Security Investigation | Linux Authentication, SSH Investigation, Log Analysis |
-| 🎯 Threat Hunting | Event Searching, Event Correlation |
-| 🗺️ Framework | MITRE ATT&CK |
-| 🛠️ Security Assessment | Vulnerability Detection, Security Configuration Assessment |
-| 🚨 Response | Wazuh Active Response |
-| 💻 Virtualization | VirtualBox |
-| 📧 Email Security | Phishing Email Analysis, Email Header Analysis, IOC Investigation |
-| 🌐 Network Security | Network Traffic Analysis, PCAP Investigation, Wireshark |
-| 🔨 Authentication Security | Brute-Force Detection, Windows Authentication Analysis |
-| 📚 Documentation | GitHub, Markdown |
+| **Area**                  | **Skills / Tools**                                                |
+| ------------------------- | ----------------------------------------------------------------- |
+| 🛡️ SIEM                  | Wazuh                                                             |
+| 🔎 Security Monitoring    | Alert Monitoring, Alert Triage, Event Investigation               |
+| 🐧 Operating Systems      | Ubuntu Linux, Windows                                             |
+| 🔐 Security Investigation | Linux Authentication, SSH Investigation, Log Analysis             |
+| 🎯 Threat Hunting         | Event Searching, Event Correlation                                |
+| 🗺️ Framework             | MITRE ATT&CK                                                      |
+| 🛠️ Security Assessment   | Vulnerability Detection, Security Configuration Assessment        |
+| 🚨 Response               | Wazuh Active Response                                             |
+| 💻 Virtualization         | VirtualBox                                                        |
+| 📧 Email Security         | Phishing Email Analysis, Email Header Analysis, IOC Investigation |
+| 📚 Documentation          | GitHub, Markdown                                                  |
 
 ---
 
@@ -63,8 +61,7 @@ A hands-on SOC environment built with **Wazuh, Ubuntu Linux and VirtualBox** to 
 🔗 [**View Enterprise SOC Home Lab**](https://github.com/vedhan88-dot/Enterprise-soc-wazuh)
 
 ### 🎯 SOC Workflow Practiced
-
-```text
+```
 Generate Security Activity
         ↓
 Detect
@@ -83,9 +80,16 @@ Response Decision
         ↓
 Document
 
-🪟 Windows Event Log Monitoring & Investigation
-A hands-on Windows security monitoring and investigation project focused on analyzing Windows Event Logs and investigating security-related activity using Wazuh.
+```
+
+---
+
+## 🪟 Windows Event Log Monitoring & Investigation
+
+A hands-on Windows security monitoring and investigation project focused on analyzing Windows Event Logs and investigating security-related activity using **Wazuh**.
+
 The project demonstrates practical SOC skills including:
+
 - Windows Event Log Monitoring
 - Security Event Investigation
 - Event Analysis
@@ -94,12 +98,17 @@ The project demonstrates practical SOC skills including:
 - Threat Detection
 - Incident Investigation
 - SOC Documentation
-  
-🔗 View Windows Event Log Monitoring & Investigation
 
-📧 Phishing Email Analysis
+🔗 [**View Windows Event Log Monitoring & Investigation**](https://github.com/vedhan88-dot/Windows-Event-Log-Monitoring-Investigation)
+
+---
+
+## 📧 Phishing Email Analysis
+
 A hands-on Blue Team investigation focused on analyzing a suspicious phishing email and identifying potential indicators of compromise.
+
 The project demonstrates practical investigation techniques including:
+
 - Phishing Email Analysis
 - Email Header Analysis
 - Sender and Reply-To Investigation
@@ -112,42 +121,14 @@ The project demonstrates practical investigation techniques including:
 - MITRE ATT&CK Mapping
 - Incident Documentation
 
-🔗 View Phishing Email Analysis
+🔗 [**View Phishing Email Analysis**](https://github.com/vedhan88-dot/Phishing-Email-Analysis)
 
-🔨 Brute Force Attack Detection
- SOC investigation project focused on detecting and analyzing repeated Windows authentication failures using Windows Security Event Logs and Wazuh.
-The project demonstrates practical investigation techniques including:
-- Windows Event ID 4625 Investigation
-- Windows Event ID 4624 Correlation
-- Authentication Failure Analysis
-- Source IP Identification
-- Wazuh SIEM Investigation
-- Authentication Event Correlation
-- Investigation Timeline Creation
-- False Positive Analysis
-- SOC Incident Documentation
-- Response Recommendations
-  
-🔗 View Brute Force Attack Detection
+---
 
-🌐 Network Traffic Analysis & PCAP Investigation
-A hands-on network security investigation project focused on analyzing captured network traffic and investigating suspicious activity using Wireshark and PCAP analysis.
-The project demonstrates practical network investigation skills including:
-- PCAP Analysis
-- Network Traffic Analysis
-- Wireshark
-- Packet Filtering
-- Protocol Analysis
-- IP Address Investigation
-- DNS Analysis
-- HTTP/HTTPS Traffic Analysis
-- IOC Identification
-- Network Investigation Documentation
-  
-🔗 View Network Traffic Analysis & PCAP Investigation
+## 📊 Security Investigation Skills
 
-📊 Security Investigation Skills
 Through these projects, I have practiced the following SOC workflows:
+```
 Security Activity
         ↓
 Detection
@@ -170,12 +151,26 @@ Response Decision
         ↓
 Documentation
 
-📫 Connect With Me
-🧪 TryHackMe: vedhan88
-📧 Email: vedhan88@gmail.com
-💻 GitHub: vedhan88-dot
-💡 My Cybersecurity Mindset
-Learn the fundamentals. Investigate the evidence. Document what you find.
+```
 
-I'm continuously learning, building practical projects, and improving my cybersecurity skills through hands-on investigation.
+---
+
+## 📫 Connect With Me
+
+🧪 **TryHackMe:** [vedhan88](https://tryhackme.com/p/vedhan88)
+
+📧 **Email:** [vedhan88@gmail.com](mailto:vedhan88@gmail.com)
+
+💻 **GitHub:** [vedhan88-dot](https://github.com/vedhan88-dot)
+
+---
+
+## 💡 My Cybersecurity Mindset
+
+> **Learn the fundamentals. Investigate the evidence. Document what you find.**
+
+I'm continuously learning, building practical labs, and improving my cybersecurity skills through hands-on investigation.
+
+---
+
 ⭐ Thanks for visiting my profile!
