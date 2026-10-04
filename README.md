@@ -4,95 +4,178 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🛡️ About Me
+
+Building practical cybersecurity skills with a focus on **SOC operations, security monitoring, SIEM, log analysis, threat detection, and incident investigation.**
 
 - 🎓 BSc in Data Science and Computer Science
-- 🛡️ Aspiring SOC Analyst focused on Blue Team and Security Operations
-- 🔎 Interested in Security Monitoring, Alert Triage, Threat Detection, and Incident Investigation
-- 💻 Hands-on experience with Windows and Linux environments
-- 📊 Experience working with Wazuh SIEM and Windows Security Event Logs
-- 🧪 Building practical cybersecurity projects and investigation workflows
-- 🧠 Learning Threat Hunting, Event Correlation, IOC Investigation, and MITRE ATT&CK
-- 📚 Continuously improving my SOC L1 skills through hands-on projects
+- 🛡️ Aspiring SOC Analyst
+- 🔎 Practicing security monitoring and alert investigation
+- 🖥️ Hands-on experience with Linux and Windows
+- ⚙️ Built and documented a Wazuh-based SOC home lab
+- 🧪 Practiced threat hunting, event correlation and incident investigation
+- 🗺️ Worked with MITRE ATT&CK mapping
+- 📚 Currently developing practical Blue Team and SOC skills
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Technical Skills
 
-| Category | Skills |
+| **Area** | **Skills / Tools** |
 |---|---|
-| SIEM | Wazuh |
-| Security Monitoring | Alert Monitoring, Alert Triage, Event Investigation |
-| Operating Systems | Windows, Ubuntu Linux |
-| Security Investigation | Log Analysis, Windows Event Logs, Linux Authentication, SSH Investigation |
-| Threat Hunting | Event Searching, Event Correlation |
-| Email Security | Phishing Email Analysis, Email Header Analysis, IOC Investigation |
-| Network Security | Network Traffic Analysis, PCAP Investigation |
-| Framework | MITRE ATT&CK |
-| Security Assessment | Vulnerability Detection, Security Configuration Assessment |
-| Incident Response | Wazuh Active Response |
-| Virtualization | VirtualBox |
-| Documentation | GitHub, Markdown |
+| 🛡️ SIEM | Wazuh |
+| 🔎 Security Monitoring | Alert Monitoring, Alert Triage, Event Investigation |
+| 🐧 Operating Systems | Ubuntu Linux, Windows |
+| 🔐 Security Investigation | Linux Authentication, SSH Investigation, Log Analysis |
+| 🎯 Threat Hunting | Event Searching, Event Correlation |
+| 🗺️ Framework | MITRE ATT&CK |
+| 🛠️ Security Assessment | Vulnerability Detection, Security Configuration Assessment |
+| 🚨 Response | Wazuh Active Response |
+| 💻 Virtualization | VirtualBox |
+| 📧 Email Security | Phishing Email Analysis, Email Header Analysis, IOC Investigation |
+| 🌐 Network Security | Network Traffic Analysis, PCAP Investigation, Wireshark |
+| 🔨 Authentication Security | Brute-Force Detection, Windows Authentication Analysis |
+| 📚 Documentation | GitHub, Markdown |
 
 ---
 
-## 🚀 Featured Projects
+# 🔬 Featured Projects
 
-### 1. Enterprise SOC Home Lab
-Hands-on Wazuh-based SOC environment focused on security monitoring, threat detection, log analysis, threat hunting, event correlation, and incident investigation.
+## 🛡️ Enterprise SOC Home Lab
 
-🔗 https://github.com/vedhan88-dot/Enterprise-soc-wazuh
+A hands-on SOC environment built with **Wazuh, Ubuntu Linux and VirtualBox** to practice security monitoring, alert triage, threat detection, threat hunting, incident investigation, MITRE ATT&CK mapping, and incident documentation.
 
-### 2. Windows Event Log Monitoring & Investigation
-Hands-on Windows security event investigation using Windows Event Viewer and Wazuh, including authentication events, process creation, privilege events, and event correlation.
+### 🔎 Investigations Completed
 
-🔗 https://github.com/vedhan88-dot/Windows-Event-Log-Monitoring-Investigation
+- File Integrity Monitoring
+- Linux Authentication Investigation
+- SSH Brute-Force Investigation
+- Suspicious User Creation
+- Linux Log Investigation
+- Vulnerability Detection & Remediation
+- Security Configuration Assessment
+- MITRE ATT&CK Mapping
+- Threat Hunting
+- Active Response
+- Multi-Event Incident Investigation
+- Final SOC L1 Capstone
 
-### 3. Phishing Email Analysis
-SOC investigation project focused on analyzing phishing email artifacts, email headers, authentication mechanisms, suspicious indicators, and threat intelligence.
+🔗 [**View Enterprise SOC Home Lab**](https://github.com/vedhan88-dot/Enterprise-soc-wazuh)
 
-🔗 https://github.com/vedhan88-dot/Phishing-Email-Analysis
+### 🎯 SOC Workflow Practiced
 
-### 4. Phishing Threat Investigation
-Blue Team investigation project focused on phishing email analysis, header investigation, originating IP analysis, SPF/DKIM/DMARC validation, attachment investigation, SHA256 analysis, and threat intelligence correlation.
+```text
+Generate Security Activity
+        ↓
+Detect
+        ↓
+Triage
+        ↓
+Investigate
+        ↓
+Correlate Events
+        ↓
+Map to MITRE ATT&CK
+        ↓
+Classify
+        ↓
+Response Decision
+        ↓
+Document
 
-🔗 https://github.com/vedhan88-dot/Phishing-Threat-Investigation
-
-### 5. Brute Force Attack Detection
-Standalone SOC investigation project focused on detecting and analyzing repeated Windows authentication failures using Windows Security Event Logs and Wazuh.
-
-🔗 https://github.com/vedhan88-dot/Brute-Force-Attack-Detection
-
----
-
-## 🎯 Current Focus
-
-- SOC Analyst L1
-- Security Monitoring
-- Alert Triage
-- Windows Event Log Analysis
-- Linux Log Analysis
-- Wazuh SIEM
+🪟 Windows Event Log Monitoring & Investigation
+A hands-on Windows security monitoring and investigation project focused on analyzing Windows Event Logs and investigating security-related activity using Wazuh.
+The project demonstrates practical SOC skills including:
+- Windows Event Log Monitoring
+- Security Event Investigation
+- Event Analysis
+- Process Activity Investigation
+- Event Correlation
 - Threat Detection
 - Incident Investigation
-- Threat Hunting
-- MITRE ATT&CK
-- Phishing Investigation
-- Authentication Attack Detection
+- SOC Documentation
+  
+🔗 View Windows Event Log Monitoring & Investigation
+
+📧 Phishing Email Analysis
+A hands-on Blue Team investigation focused on analyzing a suspicious phishing email and identifying potential indicators of compromise.
+The project demonstrates practical investigation techniques including:
+- Phishing Email Analysis
+- Email Header Analysis
+- Sender and Reply-To Investigation
+- IOC Extraction
+- Attachment Analysis
+- SHA256 Hash Investigation
+- Threat Intelligence
+- VirusTotal Analysis
+- SPF / DKIM / DMARC Analysis
+- MITRE ATT&CK Mapping
+- Incident Documentation
+
+🔗 View Phishing Email Analysis
+
+🔨 Brute Force Attack Detection
+ SOC investigation project focused on detecting and analyzing repeated Windows authentication failures using Windows Security Event Logs and Wazuh.
+The project demonstrates practical investigation techniques including:
+- Windows Event ID 4625 Investigation
+- Windows Event ID 4624 Correlation
+- Authentication Failure Analysis
+- Source IP Identification
+- Wazuh SIEM Investigation
+- Authentication Event Correlation
+- Investigation Timeline Creation
+- False Positive Analysis
+- SOC Incident Documentation
+- Response Recommendations
+  
+🔗 View Brute Force Attack Detection
+
+🌐 Network Traffic Analysis & PCAP Investigation
+A hands-on network security investigation project focused on analyzing captured network traffic and investigating suspicious activity using Wireshark and PCAP analysis.
+The project demonstrates practical network investigation skills including:
+- PCAP Analysis
 - Network Traffic Analysis
+- Wireshark
+- Packet Filtering
+- Protocol Analysis
+- IP Address Investigation
+- DNS Analysis
+- HTTP/HTTPS Traffic Analysis
+- IOC Identification
+- Network Investigation Documentation
+  
+🔗 View Network Traffic Analysis & PCAP Investigation
 
----
+📊 Security Investigation Skills
+Through these projects, I have practiced the following SOC workflows:
+Security Activity
+        ↓
+Detection
+        ↓
+Alert Triage
+        ↓
+Evidence Collection
+        ↓
+Investigation
+        ↓
+IOC Identification
+        ↓
+Event Correlation
+        ↓
+Threat Intelligence
+        ↓
+MITRE ATT&CK Mapping
+        ↓
+Response Decision
+        ↓
+Documentation
 
-## 📈 Career Goal
+📫 Connect With Me
+🧪 TryHackMe: vedhan88
+📧 Email: vedhan88@gmail.com
+💻 GitHub: vedhan88-dot
+💡 My Cybersecurity Mindset
+Learn the fundamentals. Investigate the evidence. Document what you find.
 
-My goal is to start my career as a **SOC Analyst L1 / Blue Team Analyst** and continue developing strong practical skills in security monitoring, threat detection, incident investigation, and defensive security.
-
----
-
-## 📫 Connect With Me
-
-🔗 GitHub: https://github.com/vedhan88-dot
-
----
-
-⭐ I am continuously building and documenting hands-on cybersecurity projects to demonstrate practical SOC and Blue Team skills.
+I'm continuously learning, building practical projects, and improving my cybersecurity skills through hands-on investigation.
+⭐ Thanks for visiting my profile!
