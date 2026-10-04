@@ -124,40 +124,7 @@ The project demonstrates practical investigation techniques including:
 🔗 [**View Phishing Email Analysis**](https://github.com/vedhan88-dot/Phishing-Email-Analysis)
 
 ---
-🔐 Brute Force Attack Detection
-SOC / Blue Team investigation focused on detecting and analyzing repeated Windows authentication failures using Windows Security Event Logs and Wazuh.
-The project demonstrates practical SOC investigation skills including:
-- Windows Event ID 4625 Investigation
-- Windows Event ID 4624 Correlation
-- Wazuh SIEM Investigation
-- Authentication Failure Analysis
-- Source IP Investigation
-- Event Correlation
-- Incident Timeline Development
-- Alert Triage
-- Investigation Findings
-- Response Recommendations
-- SOC Documentation
 
-🔗 View Brute Force Attack Detection
-
----
-🌐 Network Traffic Analysis & PCAP Investigation
- SOC / Blue Team investigation project focused on analyzing network traffic and PCAP files using Wireshark to identify suspicious traffic patterns and investigate network activity.
-The project demonstrates practical network investigation skills including:
-- PCAP Analysis
-- Wireshark
-- Network Traffic Analysis
-- Packet Inspection
-- Wireshark Display Filters
-- Protocol Analysis
-- Suspicious Traffic Investigation
-- Network Evidence Collection
-- Traffic Correlation
-- Investigation Documentation
-
-🔗 View Network Traffic Analysis & PCAP Investigation
-  
 ## 📊 Security Investigation Skills
 
 Through these projects, I have practiced the following SOC workflows:
