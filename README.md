@@ -125,6 +125,57 @@ The project demonstrates practical investigation techniques including:
 
 ---
 
+### 🔐 Brute Force Attack Detection
+> **SOC | Authentication Monitoring | Wazuh | Windows Event Logs**
+
+A soc/Blue Team investigation project focused on detecting and analyzing repeated Windows authentication failures using **Windows Security Event Logs** and **Wazuh SIEM**.
+
+**🔎 Key Areas**
+- Windows Event ID `4625` — Failed Logon
+- Windows Event ID `4624` — Successful Logon
+- Authentication Failure Analysis
+- Source IP Investigation
+- User Account Investigation
+- Wazuh Detection & Event Correlation
+- Investigation Timeline
+- Security Evidence & SOC Reporting
+
+**🛡️ Investigation Workflow**
+
+`Authentication Failures` → `Pattern Detection` → `Source Investigation` → `Successful Login Correlation` → `Timeline Analysis` → `Findings` → `Response Recommendations`
+
+🔗 **[View Brute Force Attack Detection →](https://github.com/vedhan88-dot/Brute-Force-Attack-Detection)**
+
+---
+
+### 🌐 Network Traffic Analysis & PCAP Investigation
+> **Network Security | Wireshark | PCAP Analysis | Traffic Investigation**
+
+A hands-on network security investigation project focused on analyzing captured network traffic, identifying suspicious communication, investigating protocols, and extracting useful security indicators from PCAP files.
+
+**🔎 Key Areas**
+- PCAP File Analysis
+- Network Traffic Investigation
+- Wireshark
+- Protocol Analysis
+- IP Address Investigation
+- DNS Traffic Analysis
+- TCP/UDP Traffic Analysis
+- HTTP/HTTPS Traffic Investigation
+- Suspicious Traffic Identification
+- IOC Investigation
+- Network Evidence Collection
+- SOC Investigation Documentation
+
+**🛡️ Investigation Workflow**
+
+`PCAP Collection` → `Traffic Filtering` → `Protocol Analysis` → `IP/DNS Investigation` → `Suspicious Traffic Identification` → `IOC Analysis` → `Findings` → `Investigation Report`
+
+🔗 **[View Network Traffic Analysis & PCAP Investigation →](https://github.com/vedhan88-dot/Network-Traffic-Analysis-PCAP-Investigation)**
+
+
+---
+
 ## 📊 Security Investigation Skills
 
 Through these projects, I have practiced the following SOC workflows:
